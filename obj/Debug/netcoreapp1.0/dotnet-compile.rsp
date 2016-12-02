@@ -1,5 +1,5 @@
---temp-output:c:\users\epicodus\desktop\BasicAuthentication\obj\Debug\netcoreapp1.0\
---out:c:\users\epicodus\desktop\BasicAuthentication\bin\Debug\netcoreapp1.0\BasicAuthentication.dll
+--temp-output:C:\Users\epicodus\Desktop\basic-authentication\obj\Debug\netcoreapp1.0\
+--out:C:\Users\epicodus\Desktop\basic-authentication\bin\Debug\netcoreapp1.0\basic-authentication.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -8,7 +8,7 @@
 --suppress-warning:CS1705
 --optimize:False
 --emit-entry-point:True
---output-name:BasicAuthentication
+--output-name:basic-authentication
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -200,26 +200,28 @@
 --reference:C:\Users\epicodus\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\epicodus\desktop\BasicAuthentication\obj\Debug\netcoreapp1.0\BasicAuthenticationdotnet-compile.deps.json",BasicAuthentication.deps.json
-c:\users\epicodus\desktop\BasicAuthentication\Program.cs
-c:\users\epicodus\desktop\BasicAuthentication\Startup.cs
-c:\users\epicodus\desktop\BasicAuthentication\Controllers\AccountController.cs
-c:\users\epicodus\desktop\BasicAuthentication\Controllers\ToDoController.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129211641_Initial.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129211641_Initial.Designer.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129211828_Add Thing column.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129211828_Add Thing column.Designer.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129211915_take out Items.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129211915_take out Items.Designer.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129212026_add second thing to Items.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129212026_add second thing to Items.Designer.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129212211_nomoresetforitems.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129212211_nomoresetforitems.Designer.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129212244_remove cols.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\20161129212244_remove cols.Designer.cs
-c:\users\epicodus\desktop\BasicAuthentication\Migrations\ApplicationDbContextModelSnapshot.cs
-c:\users\epicodus\desktop\BasicAuthentication\Models\ApplicationDbContext.cs
-c:\users\epicodus\desktop\BasicAuthentication\Models\ApplicationUser.cs
-c:\users\epicodus\desktop\BasicAuthentication\Models\Item.cs
-c:\users\epicodus\desktop\BasicAuthentication\ViewModels\LoginViewModel.cs
-c:\users\epicodus\desktop\BasicAuthentication\ViewModels\RegisterViewModel.cs
+--resource:"C:\Users\epicodus\Desktop\basic-authentication\obj\Debug\netcoreapp1.0\basic-authenticationdotnet-compile.deps.json",basic-authentication.deps.json
+C:\Users\epicodus\Desktop\basic-authentication\Program.cs
+C:\Users\epicodus\Desktop\basic-authentication\Startup.cs
+C:\Users\epicodus\Desktop\basic-authentication\Controllers\AccountController.cs
+C:\Users\epicodus\Desktop\basic-authentication\Controllers\RolesController.cs
+C:\Users\epicodus\Desktop\basic-authentication\Controllers\ToDoController.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129211641_Initial.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129211641_Initial.Designer.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129211828_Add Thing column.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129211828_Add Thing column.Designer.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129211915_take out Items.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129211915_take out Items.Designer.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129212026_add second thing to Items.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129212026_add second thing to Items.Designer.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129212211_nomoresetforitems.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129212211_nomoresetforitems.Designer.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129212244_remove cols.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\20161129212244_remove cols.Designer.cs
+C:\Users\epicodus\Desktop\basic-authentication\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\Users\epicodus\Desktop\basic-authentication\Models\ApplicationDbContext.cs
+C:\Users\epicodus\Desktop\basic-authentication\Models\ApplicationUser.cs
+C:\Users\epicodus\Desktop\basic-authentication\Models\Item.cs
+C:\Users\epicodus\Desktop\basic-authentication\ViewModels\LoginViewModel.cs
+C:\Users\epicodus\Desktop\basic-authentication\ViewModels\RegisterViewModel.cs
+C:\Users\epicodus\Desktop\basic-authentication\ViewModels\RolesViewModel.cs
